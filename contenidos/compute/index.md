@@ -17,7 +17,7 @@ VPS (Virtual Private Servers)
 * Servidores privados de Amazon
   * Acceso por SSH
   * Consola de configuración
-  * etc
+  * (...)
 ___
 
 ## Batch

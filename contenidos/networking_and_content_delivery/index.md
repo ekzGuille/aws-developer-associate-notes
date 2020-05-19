@@ -22,7 +22,7 @@
 
 ## Direct Connet
 
-* Líneas dedicadas
+* Líneas dedicadas de conexión entre servicios
 ---
 
 [<small>⬅ Atrás</small>](./../index.md)

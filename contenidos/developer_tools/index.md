@@ -22,7 +22,7 @@
   * Build
   * Deploy
   * Test
-  * (...) 
+  * (...)
 ---
 
 ## XRay
