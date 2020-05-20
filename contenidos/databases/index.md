@@ -1,6 +1,6 @@
 # Databases
 
-## RDS
+## RDS 📚
 (Relational Database Service)
 
 * Permite tener Bases de datos Relacionales
@@ -12,18 +12,15 @@
   * Microsoft SQL Server
 ___
 
-## DynamoDB
-
+## DynamoDB 📚
 * Base de Datos **NO** Relacional
 ---
 
-## Elasticache
-
+## Elasticache
 * Sistema de cacheo de datos
 ---
 
-## Red Shift
-
+## Red Shift
 * Permite manejar consultas muy pesadas
   * Se utiliza para BI (Buisiness Intelligence)
 ---

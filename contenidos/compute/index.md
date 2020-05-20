@@ -1,13 +1,13 @@
 # Compute
 
-## EC2
+## EC2 📚
 (Elastic Cloud Computing)
 ___
 
-## Elastic Beanstalk
+## Elastic Beanstalk 📚
 ___
 
-## Lambda
+## Lambda 📚
 * Funciones serverless
 ___
 
@@ -21,7 +21,6 @@ VPS (Virtual Private Servers)
 ___
 
 ## Batch
-
 * Procesamiento por lotes
 ---
 

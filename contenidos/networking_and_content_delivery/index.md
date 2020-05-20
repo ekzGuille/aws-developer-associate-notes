@@ -1,27 +1,23 @@
 # Networking and Content Delivery
 
-## VPC
+## VPC 📚
 (Virtual Private Cloud)
 
 * Datacenter Virtual
 ---
 
-## CloudFront
-
+## CloudFront 📚
 * Content Delivery Network
 ---
 
 ## Route53
-
-* DNS
+* Proveedor de DNS
 ---
 
-## API Gateway
-
+## API Gateway 📚
 ---
 
 ## Direct Connet
-
 * Líneas dedicadas de conexión entre servicios
 ---
 

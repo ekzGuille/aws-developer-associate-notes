@@ -1,9 +1,9 @@
 # Storage
 
-## S3
+## S3 📚
 (Simple Storage Service)
 
-* Compuesto por *Buckets*
+* Almacen de datos. Se compone de *Buckets*
 ___
 
 ## EFS

@@ -1,23 +1,23 @@
 # Developer Tools
 
-## CodeStar
+## CodeStar 📚
 * Servicio colaborativo para escribir código
 ---
 
-## CodeCommit
+## CodeCommit 📚
 * Gestor de versiones de código
   * Permite almacenar código y sus versiones
 ---
 
-## CodeBuild
+## CodeBuild 📚
 * Permite compliar código y realizar tests
 ---
 
-## CodeDeploy
+## CodeDeploy 📚
 * Automatiza despliegues de aplicaciones alojadas en enstancias EC2 o funciones Lambda, etc.
 ---
 
-## CodePipeline
+## CodePipeline 📚
 * Permite utomatizar los pasos para liberar un software. Por ejemplo:
   * Build
   * Deploy
@@ -25,14 +25,12 @@
   * (...)
 ---
 
-## XRay
+## X-Ray 📚
 * Debuggear y analizar los servicios
-
 ---
 
 ## Cloud 9
 * IDE Online
-
 ---
 
 [<small>⬅ Atrás</small>](./../index.md)
