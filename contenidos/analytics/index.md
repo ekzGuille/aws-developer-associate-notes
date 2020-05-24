@@ -29,11 +29,10 @@
 ---
 
 ## Data Pipeline 📗
-* Business Intelligence
+* Grandes streams de datos
 ---
 
 ## Glue
-* Business Intelligence
 ---
 
 [<small>⬅ Atrás</small>](./../index.md)
