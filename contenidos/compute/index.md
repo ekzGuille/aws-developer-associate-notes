@@ -1,6 +1,6 @@
 # Compute
 
-## EC2 📚
+## [EC2](./EC2.md) 📚
 (Elastic Cloud Computing)
 ___
 
