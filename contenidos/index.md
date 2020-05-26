@@ -20,5 +20,5 @@
 18. [(IoT) Internet Of Things](./internet_of_things/index.md)
 19. [Game Development](./game_development/index.md)
 
-
+## Otra información
 * [26/05/2020 Webinar](./aws_get_certified_notes.md) 💻
