@@ -19,3 +19,6 @@
 17. [Desktop and App Streaming](./desktop_and_app_streaming/index.md)
 18. [(IoT) Internet Of Things](./internet_of_things/index.md)
 19. [Game Development](./game_development/index.md)
+
+
+* [26/05/2020 Webinar](./aws_get_certified_notes.md) 💻

@@ -27,7 +27,7 @@ Desde el IAM puedes gestionar:
       ]
     }
     ```
-    [Mas ejemplos](https://docs.aws.amazon.com/es_es/AmazonS3/latest/dev/example-policies-s3.html)
+    [Más ejemplos](https://docs.aws.amazon.com/es_es/AmazonS3/latest/dev/example-policies-s3.html)
 
 ## Lab
 * IAM es **global** (aplica a todas las regiones a la vez)
