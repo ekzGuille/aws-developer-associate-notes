@@ -7,7 +7,7 @@
   * Domain 4 - Refactoring (10%)
   * Domain 5 - Monitoring and Troubleshooting (12%)
 
-(You can? fail individual domains)
+(You can fail individual domains) [Más info](https://www.testpreptraining.com/blog/how-to-pass-aws-certified-developer-associate-exam/)
 
 ---
 
