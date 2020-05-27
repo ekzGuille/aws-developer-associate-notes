@@ -180,7 +180,9 @@
 
 ## S3
 * Choose the Bucket closest to you
-* Each **Object** has **unique key** (Max. size 5 Gb de una sola vez)
+* Each **Object** has **unique key** (Max. size 5 Gb de una sola vez, hasta 5 Tb en total)
+* **BucketName** único
+* Hasta 100 Buckets/cuenta por defecto. (Se puede aumentar pero hay que pedirselo a Amazon con un máximo de 1000 buckets en total)
 
 ### ACLs (Access Control List)
 * Give Bucket policies to users (*What Actions to Which Resources*)
